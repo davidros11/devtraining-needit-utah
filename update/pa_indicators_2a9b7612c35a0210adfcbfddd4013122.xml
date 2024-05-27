@@ -7,7 +7,9 @@
         <calendar_freq/>
         <collect_breakdown_matrix>false</collect_breakdown_matrix>
         <collect_records>true</collect_records>
-        <conditions/>
+        <conditions table="x_58872_needit_needit">u_when_needed&lt;javascript:gs.beginningOfThisWeek()^EQ<item endquery="false" field="u_when_needed" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfThisWeek()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
         <contributor/>
         <cube display_value="NeedIt.ActiveWeekly">d0e9f212c35a0210adfcbfddd4013108</cube>
         <data_source/>
@@ -15,7 +17,7 @@
         <default_chart_type>line</default_chart_type>
         <description>NeedIt: NeedIt requests due weekly measured as a count (#). It is the sum of the indicator source: NeedIt.ActiveWeekly.</description>
         <direction>1</direction>
-        <display>false</display>
+        <display>true</display>
         <excluded_statistics/>
         <field/>
         <forecast_base_periods>2</forecast_base_periods>
@@ -45,13 +47,13 @@
         <override_periods>false</override_periods>
         <precision>0</precision>
         <related_breakdowns>3</related_breakdowns>
-        <related_jobs>3</related_jobs>
+        <related_jobs>5</related_jobs>
         <render_continuous_lines>false</render_continuous_lines>
         <role_override>false</role_override>
         <roles/>
         <score_periods>-1</score_periods>
         <scores_format>kMGTPE</scores_format>
-        <scores_modified_at>2024-05-23 14:35:27</scores_modified_at>
+        <scores_modified_at>2024-05-27 07:17:30</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>
@@ -64,7 +66,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2a9b7612c35a0210adfcbfddd4013122</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>NeedIt: Active Weekly.</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -72,7 +74,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>pa_indicators_2a9b7612c35a0210adfcbfddd4013122</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-23 14:35:24</sys_updated_on>
+        <sys_updated_on>2024-05-27 07:16:27</sys_updated_on>
         <type>1</type>
         <unit display_value="#">17b365e2d7320100ba986f14ce6103ad</unit>
         <users/>
