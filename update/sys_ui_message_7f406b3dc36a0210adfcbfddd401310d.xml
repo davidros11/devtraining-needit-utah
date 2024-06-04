@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>va:topic:323f97f5c36a0210adfcbfddd401314c:node:733cb2609259490e82d48397e16d550f:field:0</key>
+        <language>en</language>
+        <message>Sorry, but I couldn't find any relevant items.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 13:54:02</sys_created_on>
+        <sys_id>7f406b3dc36a0210adfcbfddd401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>va:topic:323f97f5c36a0210adfcbfddd401314c:node:733cb2609259490e82d48397e16d550f:field:0</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_message_7f406b3dc36a0210adfcbfddd401310d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 13:54:02</sys_updated_on>
+    </sys_ui_message>
+</record_update>

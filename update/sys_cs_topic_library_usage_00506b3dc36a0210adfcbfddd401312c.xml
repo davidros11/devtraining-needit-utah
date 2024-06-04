@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_library_usage">
+    <sys_cs_topic_library_usage action="INSERT_OR_UPDATE">
+        <calling_cs_topic_id display_value="Submit a request.">f7406b3dc36a0210adfcbfddd4013114</calling_cs_topic_id>
+        <library_cs_topic_id display_value="Deflection">7fb4ca055303201033cdddeeff7b12b3</library_cs_topic_id>
+        <library_usage>{"type":"LibraryCall","library_topic_name":"Deflection","library_topic_id":"7fb4ca055303201033cdddeeff7b12b3","library_topic_is_template":false,"parameter-mappings":[{"parameter-name":"deflection_configuration","value":{"type":"String","mode":"string","value":"f0de5b47538201106189ddeeff7b1275"},"metadata":{"type":"Reference","list":false,"items":[],"use_items":false,"table":"ssa_deflection_configuration"}},{"parameter-name":"deflection_pattern","value":{"type":"String","mode":"string","value":"cdb81381536201106189ddeeff7b12c6"},"metadata":{"type":"Reference","list":false,"items":[],"use_items":false,"table":"ssa_deflection_pattern"}},{"parameter-name":"activity_table","value":{"type":"String","mode":"string","value":""},"metadata":{"type":"String","list":false,"items":[],"use_items":false}},{"parameter-name":"activity_ids","value":{"type":"String","mode":"string","value":""},"metadata":{"type":"String","list":false,"items":[],"use_items":false}}],"return-value-mappings":[],"id":"5b372c676a5c426ebbbdf3f8b6b4473c","name":"Deflection: VA Self Resolve","goal_id":"primary","applicability":{"type":"Applicability","mode":"script","value":"true"},"expert_mode":false}</library_usage>
+        <node_id>5b372c676a5c426ebbbdf3f8b6b4473c</node_id>
+        <sys_class_name>sys_cs_topic_library_usage</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 13:54:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>00506b3dc36a0210adfcbfddd401312c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cs_topic_library_usage_00506b3dc36a0210adfcbfddd401312c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 13:54:03</sys_updated_on>
+    </sys_cs_topic_library_usage>
+</record_update>
